@@ -2,8 +2,8 @@
   "name": "Arthur Stenzel",
   "short_name": "Arthur Stenzel",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#053568",
+  "background_color": "#053568",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
