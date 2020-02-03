@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Arthur Stenzel</title>
-    <link>https://Mannala.github.io/post/</link>
-      <atom:link href="https://Mannala.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mannala.github.io/post/</link>
+      <atom:link href="https://mannala.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://Mannala.github.io/img/applicationFoto.jpg</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Posts</title>
-      <link>https://Mannala.github.io/post/</link>
+      <link>https://mannala.github.io/post/</link>
     </image>
     
   </channel>

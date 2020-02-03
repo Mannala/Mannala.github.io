@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Arthur Stenzel</title>
+    <link>https://mannala.github.io/publication_types/2/</link>
+      <atom:link href="https://mannala.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>2</title>
+      <link>https://mannala.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Die Lageberichterstattung der DAX 30-Unternehmen - eine empirische Analyse der Prognosegüte</title>
+      <link>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goodwill-Impairments und Managementwechsel: Eine vergleichende empirische Analyse der DAX-und SMI-Unternehmen</title>
+      <link>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kommentierung zu §297 HBG: Inhalt. In: Bilanzrecht, Hrsg: Hachmeister, D.; Kahle, H.; Mock, S.; Schüppen, M., Köln</title>
+      <link>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke</title>
+      <link>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis</title>
+      <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

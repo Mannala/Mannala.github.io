@@ -2,15 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Arthur Stenzel</title>
-    <link>https://Mannala.github.io/publication/</link>
-      <atom:link href="https://Mannala.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mannala.github.io/publication/</link>
+      <atom:link href="https://mannala.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Mannala.github.io/img/applicationFoto.jpg</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publications</title>
-      <link>https://Mannala.github.io/publication/</link>
+      <link>https://mannala.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Financial Statement Tax Disclosures and Corporate Innovation</title>
+      <link>https://mannala.github.io/publication/financial-statement-tax-disclosures-and-corporate-innovation/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/financial-statement-tax-disclosures-and-corporate-innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate Tax-Rate and Tax-Base Avoidance Trends of U.S. Domestic and U.S. Multinational Firms</title>
+      <link>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Lageberichterstattung der DAX 30-Unternehmen - eine empirische Analyse der Prognosegüte</title>
+      <link>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goodwill-Impairments und Managementwechsel: Eine vergleichende empirische Analyse der DAX-und SMI-Unternehmen</title>
+      <link>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kommentierung zu §297 HBG: Inhalt. In: Bilanzrecht, Hrsg: Hachmeister, D.; Kahle, H.; Mock, S.; Schüppen, M., Köln</title>
+      <link>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke</title>
+      <link>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of External Control on Comperative Conditional Conservatism in Australian Private and Public Companies under IFRS</title>
+      <link>https://mannala.github.io/publication/the-influence-of-external-control-on-comperative-conditional-conservatism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/the-influence-of-external-control-on-comperative-conditional-conservatism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors</title>
+      <link>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis</title>
+      <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

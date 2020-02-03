@@ -2,15 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Arthur Stenzel</title>
-    <link>https://Mannala.github.io/publication_types/</link>
-      <atom:link href="https://Mannala.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mannala.github.io/publication_types/</link>
+      <atom:link href="https://mannala.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Mannala.github.io/img/applicationFoto.jpg</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publication_types</title>
-      <link>https://Mannala.github.io/publication_types/</link>
+      <link>https://mannala.github.io/publication_types/</link>
     </image>
+    
+    <item>
+      <title>9</title>
+      <link>https://mannala.github.io/publication_types/9/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication_types/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://mannala.github.io/publication_types/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

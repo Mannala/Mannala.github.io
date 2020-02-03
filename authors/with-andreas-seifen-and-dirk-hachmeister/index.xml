@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>with Andreas Seifen and Dirk Hachmeister | Arthur Stenzel</title>
+    <link>https://mannala.github.io/authors/with-andreas-seifen-and-dirk-hachmeister/</link>
+      <atom:link href="https://mannala.github.io/authors/with-andreas-seifen-and-dirk-hachmeister/index.xml" rel="self" type="application/rss+xml" />
+    <description>with Andreas Seifen and Dirk Hachmeister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>with Andreas Seifen and Dirk Hachmeister</title>
+      <link>https://mannala.github.io/authors/with-andreas-seifen-and-dirk-hachmeister/</link>
+    </image>
+    
+    <item>
+      <title>Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis</title>
+      <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
