@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arthur Stenzel</title>
-    <link>https://mannala.github.io/</link>
-      <atom:link href="https://mannala.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arthur Stenzel</description>
+    <title>8 | Arthur Stenzel</title>
+    <link>https://mannala.github.io/publication_types/8/</link>
+      <atom:link href="https://mannala.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
-      <title>Arthur Stenzel</title>
-      <link>https://mannala.github.io/</link>
+      <title>8</title>
+      <link>https://mannala.github.io/publication_types/8/</link>
     </image>
     
     <item>
@@ -17,22 +17,6 @@
       <link>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financial Statement Tax Disclosures and Corporate Innovation</title>
-      <link>https://mannala.github.io/publication/financial-statement-tax-disclosures-and-corporate-innovation/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/financial-statement-tax-disclosures-and-corporate-innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corporate Tax-Rate and Tax-Base Avoidance Trends of U.S. Domestic and U.S. Multinational Firms</title>
-      <link>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</guid>
       <description></description>
     </item>
     
@@ -65,22 +49,6 @@
       <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Influence of External Control on Comperative Conditional Conservatism in Australian Private and Public Companies under IFRS</title>
-      <link>https://mannala.github.io/publication/the-influence-of-external-control-on-comperative-conditional-conservatism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/the-influence-of-external-control-on-comperative-conditional-conservatism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Real Effect of Accounting Comparability on Cross-border Investment of Foreign Investors</title>
-      <link>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://mannala.github.io/publication/</link>
       <atom:link href="https://mannala.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publications</title>
       <link>https://mannala.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Goodwill-Impairments und Managementwechsel: Eine vergleichende empirische Analyse der DAX-und SMI-Unternehmen, KoR Vol. 20, No. 1 (2020), 22-30</title>
+      <link>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Financial Statement Tax Disclosures and Corporate Innovation</title>
@@ -29,34 +37,34 @@
     </item>
     
     <item>
-      <title>Die Lageberichterstattung der DAX 30-Unternehmen - eine empirische Analyse der Prognosegüte</title>
-      <link>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goodwill-Impairments und Managementwechsel: Eine vergleichende empirische Analyse der DAX-und SMI-Unternehmen</title>
-      <link>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</guid>
+      <title>Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke, IRZ Vol. 13, No. 7/8 (2018), 313-315</title>
+      <link>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kommentierung zu §297 HBG: Inhalt. In: Bilanzrecht, Hrsg: Hachmeister, D.; Kahle, H.; Mock, S.; Schüppen, M., Köln</title>
       <link>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Korruption im Rahmen der Accounting Complicance - Theoretische und empirische Einblicke</title>
-      <link>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</guid>
+      <title>Die Lageberichterstattung der DAX 30-Unternehmen - eine empirische Analyse der Prognosegüte, IRZ Vol. 11, No. 1 (2016), 43-49</title>
+      <link>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis, CF Vol. 6, No. 3 (2015), 47-57</title>
+      <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Währungsrisikomanagement deutscher Industrieunternehmen – Empirische Untersuchung der Praxis</title>
-      <link>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</guid>
       <description></description>
     </item>
     
