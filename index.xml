@@ -5,12 +5,20 @@
     <link>https://mannala.github.io/</link>
       <atom:link href="https://mannala.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Arthur Stenzel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Arthur Stenzel</title>
       <link>https://mannala.github.io/</link>
     </image>
+    
+    <item>
+      <title>Measuring Corporate Tax Rate and Tax Base Avoidance of U.S.Domestic and U.S. Multinational Firms</title>
+      <link>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FASB Interpretation Number 48 (FIN 48) Disclosures and Corporate Innovation</title>
@@ -33,14 +41,6 @@
       <link>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corporate Tax-Rate and Tax-Base Avoidance of U.S. Domestic and U.S. Multinational Firms</title>
-      <link>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</guid>
       <description></description>
     </item>
     
