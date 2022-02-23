@@ -1,214 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mannala.github.io/publication_types/9/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/the-real-effect-of-accounting-comperability-on-cross-border-investment/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication_types/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-kristian-d.-allee-and-tami-dinh/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication_types/7/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/average-statutory-tax-rates/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/effective-tax-rates/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/corporate-tax-rate-and-tax-base-avoidance/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/tax-avoidance/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/tax-base-avoidance/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/tax-rate-avoidance/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/backward-citations/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/fast-interpretation-number-48-fin48-disclosures-and-corporate-innovation/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/fin-48/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/incremental-innovation/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/niklas-lampenius/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/patents/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/radical-innovation/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/tags/uncertain-tax-positions/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-nathan-goldman/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication_types/8/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/professional_goodwill-impaiurments-und-managementwechsel-eine-vergleichende-empirische-analyse/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-tami-dinh-and-marc-candreja/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/professional_korruption-im-rahmen-der_accounting_complicance/</loc>
     <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-tami-dinh-and-seraina-fruh/</loc>
     <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/the-influence-of-external-control-on-comperative-conditional-conservatism/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-richard-morris/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/professional_kommentierung-zu-297-hgb-bilanzrecht/</loc>
     <lastmod>2017-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-dirk-hachmeister/</loc>
     <lastmod>2017-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/professional_die-lageberichterstattung-der-dax-30-unternehmen-eine-empirische-analyse/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-dirk-hachmeister-and-annike-bootsmann/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-andreas-seifen-and-dirk-hachmeister/</loc>
     <lastmod>2015-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/publication/professional_waehrungsrisikomanagement-deutscher-industrieunternehmen/</loc>
     <lastmod>2015-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/arthurstenzel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/suresh-radhakrishnan-and-jose-elias-feres-de-almeida-br/-revising-for-2nd-round-submission-to-contemporary-accounting-research/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mannala.github.io/authors/with-terry-j.-shevlin-and-niklas-lampenius-br/-journal-of-accounting-and-economics.-forthcoming/</loc>
   </url>
-  
 </urlset>
