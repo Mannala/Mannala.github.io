@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>with Florian Eugster | Arthur Stenzel</title>
+    <link>https://mannala.github.io/authors/with-florian-eugster/</link>
+      <atom:link href="https://mannala.github.io/authors/with-florian-eugster/index.xml" rel="self" type="application/rss+xml" />
+    <description>with Florian Eugster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>with Florian Eugster</title>
+      <link>https://mannala.github.io/authors/with-florian-eugster/</link>
+    </image>
+    
+    <item>
+      <title>Key Audit Matters der Swiss Performance-Index-Unternehmen, Expert Focus, Vol. 96, No. 8 (2022), 335-340</title>
+      <link>https://mannala.github.io/publication/professional_key-audit-matters-der-swiss-performance-index-unternehmen/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_key-audit-matters-der-swiss-performance-index-unternehmen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

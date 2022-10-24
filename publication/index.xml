@@ -5,12 +5,20 @@
     <link>https://mannala.github.io/publication/</link>
       <atom:link href="https://mannala.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publications</title>
       <link>https://mannala.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Key Audit Matters der Swiss Performance-Index-Unternehmen, Expert Focus, Vol. 96, No. 8 (2022), 335-340</title>
+      <link>https://mannala.github.io/publication/professional_key-audit-matters-der-swiss-performance-index-unternehmen/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mannala.github.io/publication/professional_key-audit-matters-der-swiss-performance-index-unternehmen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-Border Investments in Private Firms: The Benefits of Comparability for Foreign Investors</title>
